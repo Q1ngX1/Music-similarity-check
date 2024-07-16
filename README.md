@@ -1,0 +1,1 @@
+This is a simple realization of a music similarity check. This is used for evaluating the performance of music generation models. For a given start of a piece of music as prompt, this project will compare the similarity between the generated music and the original music. 
